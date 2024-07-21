@@ -6,6 +6,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
