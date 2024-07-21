@@ -7,6 +7,7 @@ Leetcode practice!!!!!
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
