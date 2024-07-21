@@ -7,12 +7,14 @@ Leetcode practice!!!!!
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalranjan19/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -21,6 +23,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,8 +36,13 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalranjan19/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalranjan19/LeetCode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
