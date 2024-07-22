@@ -20,6 +20,7 @@ Leetcode practice!!!!!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -53,4 +54,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
