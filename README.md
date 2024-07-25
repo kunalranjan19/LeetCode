@@ -17,11 +17,13 @@ Leetcode practice!!!!!
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
