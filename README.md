@@ -11,6 +11,7 @@ Leetcode practice!!!!!
 | [0118-pascals-triangle](https://github.com/kunalranjan19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ Leetcode practice!!!!!
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -60,4 +62,12 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
