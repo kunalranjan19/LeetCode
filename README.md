@@ -26,6 +26,7 @@ Leetcode practice!!!!!
 | [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
+| [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -70,4 +72,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
