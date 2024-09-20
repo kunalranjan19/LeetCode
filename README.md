@@ -7,6 +7,7 @@ Leetcode practice!!!!!
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalranjan19/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kunalranjan19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
@@ -17,6 +18,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -76,4 +78,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
