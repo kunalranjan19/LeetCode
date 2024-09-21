@@ -85,4 +85,12 @@ Leetcode practice!!!!!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kunalranjan19/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
