@@ -6,6 +6,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kunalranjan19/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kunalranjan19/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kunalranjan19/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -85,11 +86,13 @@ Leetcode practice!!!!!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kunalranjan19/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kunalranjan19/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kunalranjan19/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
