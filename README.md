@@ -100,4 +100,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kunalranjan19/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
