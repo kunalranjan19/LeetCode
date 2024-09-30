@@ -15,6 +15,7 @@ Leetcode practice!!!!!
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kunalranjan19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -26,6 +27,7 @@ Leetcode practice!!!!!
 | [0073-set-matrix-zeroes](https://github.com/kunalranjan19/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -41,6 +43,7 @@ Leetcode practice!!!!!
 | [0056-merge-intervals](https://github.com/kunalranjan19/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +68,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
