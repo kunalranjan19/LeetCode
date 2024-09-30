@@ -16,6 +16,7 @@ Leetcode practice!!!!!
 | [0118-pascals-triangle](https://github.com/kunalranjan19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -48,6 +49,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunalranjan19/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ Leetcode practice!!!!!
 | ------- |
 | [0031-next-permutation](https://github.com/kunalranjan19/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -107,4 +110,8 @@ Leetcode practice!!!!!
 | [0197-rising-temperature](https://github.com/kunalranjan19/LeetCode/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kunalranjan19/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/kunalranjan19/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
