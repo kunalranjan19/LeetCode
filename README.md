@@ -108,6 +108,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/kunalranjan19/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -118,4 +119,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kunalranjan19/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
