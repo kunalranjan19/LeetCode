@@ -20,6 +20,7 @@ Leetcode practice!!!!!
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leetcode practice!!!!!
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Leetcode practice!!!!!
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kunalranjan19/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +79,7 @@ Leetcode practice!!!!!
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
