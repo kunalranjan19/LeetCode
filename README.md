@@ -30,6 +30,7 @@ Leetcode practice!!!!!
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -37,6 +38,7 @@ Leetcode practice!!!!!
 | [0014-longest-common-prefix](https://github.com/kunalranjan19/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalranjan19/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ Leetcode practice!!!!!
 | [0031-next-permutation](https://github.com/kunalranjan19/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunalranjan19/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
@@ -128,4 +131,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kunalranjan19/LeetCode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
