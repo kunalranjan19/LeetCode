@@ -46,6 +46,7 @@ Leetcode practice!!!!!
 | [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1923-sentence-similarity-iii](https://github.com/kunalranjan19/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Leetcode practice!!!!!
 | [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1923-sentence-similarity-iii](https://github.com/kunalranjan19/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
@@ -101,6 +103,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
