@@ -20,6 +20,7 @@ Leetcode practice!!!!!
 | [0238-product-of-array-except-self](https://github.com/kunalranjan19/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kunalranjan19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjan19/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 | [1923-sentence-similarity-iii](https://github.com/kunalranjan19/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -34,6 +35,7 @@ Leetcode practice!!!!!
 | [0205-isomorphic-strings](https://github.com/kunalranjan19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjan19/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -125,6 +127,7 @@ Leetcode practice!!!!!
 | [0009-palindrome-number](https://github.com/kunalranjan19/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kunalranjan19/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kunalranjan19/LeetCode/tree/master/0050-powx-n) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +168,12 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kunalranjan19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
