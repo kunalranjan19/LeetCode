@@ -49,6 +49,7 @@ Leetcode practice!!!!!
 | [0680-valid-palindrome-ii](https://github.com/kunalranjan19/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1923-sentence-similarity-iii](https://github.com/kunalranjan19/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kunalranjan19/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Leetcode practice!!!!!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kunalranjan19/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kunalranjan19/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kunalranjan19/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
