@@ -25,6 +25,7 @@ Leetcode practice!!!!!
 | [0792-binary-search](https://github.com/kunalranjan19/LeetCode/tree/master/0792-binary-search) |
 | [1002-maximum-width-ramp](https://github.com/kunalranjan19/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/kunalranjan19/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kunalranjan19/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ Leetcode practice!!!!!
 | [0380-insert-delete-getrandom-o1](https://github.com/kunalranjan19/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/kunalranjan19/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/kunalranjan19/LeetCode/tree/master/0567-permutation-in-string) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kunalranjan19/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kunalranjan19/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -161,6 +163,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kunalranjan19/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kunalranjan19/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Bucket Sort
 |  |
 | ------- |
