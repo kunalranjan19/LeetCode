@@ -144,6 +144,7 @@ Leetcode practice!!!!!
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/kunalranjan19/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/kunalranjan19/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/kunalranjan19/LeetCode/tree/master/0577-employee-bonus) |
 | [1317-monthly-transactions-i](https://github.com/kunalranjan19/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kunalranjan19/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
