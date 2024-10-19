@@ -149,6 +149,7 @@ Leetcode practice!!!!!
 | [1317-monthly-transactions-i](https://github.com/kunalranjan19/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kunalranjan19/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/kunalranjan19/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/kunalranjan19/LeetCode/tree/master/2087-confirmation-rate) |
 ## Bit Manipulation
 |  |
 | ------- |
